@@ -6,3 +6,4 @@ line 5
 linha 6
 linha 7
 linha 8 vai ser commitada pela aplicacao
+linhas 9, todo o processo será feito passo a passo
