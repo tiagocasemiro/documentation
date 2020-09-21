@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 stash teste 
 sdasd
 =======
@@ -8,4 +9,7 @@ stash teste
 =======
 stash teste 
 sdasd
+>>>>>>> Stashed changes
+=======
+stash teste
 >>>>>>> Stashed changes
