@@ -8,12 +8,6 @@ linha 7
 linha 8 vai ser commitada pela aplicacao
 linhas 9, todo o processo será feito passo a passo
 linha 10
-<<<<<<< HEAD
-<<<<<<< HEAD
-linha 11
-=======
->>>>>>> ab9ecee88466e9c04a07c52d4d6b21e0d04fad19
-=======
 linha 11
 12
->>>>>>> 4dc2a3ad1d278b1e80e277fc3411a147deb5e11c
+13
