@@ -10,6 +10,4 @@ stash teste
 stash teste 
 sdasd
 >>>>>>> Stashed changes
-=======
-stash teste
->>>>>>> Stashed changes
+
