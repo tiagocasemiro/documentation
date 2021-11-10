@@ -1,15 +1,8 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-stash teste 
-sdasd
-=======
 stash teste
->>>>>>> Stashed changes
-=======
-stash teste 
 sdasd
->>>>>>> Stashed changes
-=======
 stash teste
->>>>>>> Stashed changes
+Stashed changes
+stash teste
+sdasd
+stash teste
+Stashed changes
