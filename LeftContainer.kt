@@ -70,7 +70,6 @@ fun LeftContainer(localRepository: LocalRepository, leftContainerReload: Mutable
                     if(it.isCurrent) {
                         showNotification(
                             "Can not switch to this branch.\nThis is current branch.",
-                            type = TypeCommunication.warn
                         )
                     } else {
                         showLoad()
