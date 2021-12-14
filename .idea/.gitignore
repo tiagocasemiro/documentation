@@ -1,8 +1,11 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+<<<<<<< HEAD
 /documentation.iml
 /misc.xml
 /modules.xml
 /runConfigurations.xml
 /vcs.xml
+=======
+>>>>>>> branch 'doc-6' of https://github.com/tiagocasemiro/documentation.git
