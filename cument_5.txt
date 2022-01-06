@@ -1,13 +1,13 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+aaaaa< Updated upstream
+<aaaaa< Updated upstream
+aaaaa<< Updated upstream
 stash teste 
 sdasd
-=======
+aaaaaa
 stash teste
->>>>>>> Stashed changes
-=======
+aaaaaa Stashed changes
+aaaaaa=
 stash teste 
 sdasd
->>>>>>> Stashed changes
+aaaaaa> Stashed changes
 
